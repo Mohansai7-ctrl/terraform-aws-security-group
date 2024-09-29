@@ -12,13 +12,14 @@ variable "vpc_id" {
 }
 
 variable "sg_tags" {
+    default = {}
     
 }
 
 variable "common_tags" {
-
+    default = {}
 }
 
 variable "sg_name" {
-    
+
 }
