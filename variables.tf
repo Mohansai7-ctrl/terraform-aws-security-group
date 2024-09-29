@@ -8,7 +8,7 @@ variable "environment" {
 
 
 variable "vpc_id" {
-    type = string
+    
 }
 
 variable "sg_tags" {
