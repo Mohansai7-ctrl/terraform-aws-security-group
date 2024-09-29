@@ -16,5 +16,9 @@ variable "sg_tags" {
 }
 
 variable "common_tags" {
+
+}
+
+variable "sg_name" {
     
 }
